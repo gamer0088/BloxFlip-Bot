@@ -8,7 +8,7 @@ SafeMines = ':white_check_mark:'
 TileMines = ':x:'
 SafeTowers = ':white_check_mark:'
 TileTowers = ':x:'
-BotToken = ''
+BotToken = '5'
 ServerId = 0
 BuyerRoleId = 0
 
